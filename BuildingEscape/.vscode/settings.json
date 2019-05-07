@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/billc/Documents/Udemy-Building-Escape-UnrealEngineDeveloper/BuildingEscape/.vs": true,
+		"C:/Users/billc/Documents/Udemy-Building-Escape-UnrealEngineDeveloper/BuildingEscape/.vscode": true,
+		"C:/Users/billc/Documents/Udemy-Building-Escape-UnrealEngineDeveloper/BuildingEscape/Content": true,
+		"C:/Users/billc/Documents/Udemy-Building-Escape-UnrealEngineDeveloper/BuildingEscape/Intermediate": true,
+		"C:/Users/billc/Documents/Udemy-Building-Escape-UnrealEngineDeveloper/BuildingEscape/Saved": true
+	}
+}
